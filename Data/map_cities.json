@@ -3,7 +3,7 @@
     "city_id": 1,
     "city": "New York",
     "state": "NY",
-    "region": "Northeast",
+    "region": "ne",
     "updated_at": "2026-04-14T12:00:00Z"
   },
   {
